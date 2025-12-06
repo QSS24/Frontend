@@ -3,12 +3,20 @@ Homepage_style.css
 }
 
 .Head {
-     Font: 
-     size:
-     color:
+     Font: Monotype-Corsiva
+     size: 20px
+     color: navy
+     embossed: 
+     padding: 5px
      
 }
 
+*.form { 
+    
+    Font:
+    Size:
+    Color: 
+}
 
 .nav::before { 
   .animation(
