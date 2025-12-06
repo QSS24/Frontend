@@ -1,0 +1,32 @@
+Homepage.html
+
+<! Doctype Html>
+<html> 
+<Head> 
+     <Meta Name = "NeworkEngineering" Lang = "English" Content = "Wide-Device-width Initial-Scale">
+     <Meta Description = "...."  >
+     <Meta Content = "..."     
+     <link rel = "Stylesheet" hef = "Homepage_Style.css" >
+
+     <title> 
+     </title> 
+</Head>
+  <Section> 
+      <nav>
+        
+  </Section> 
+  <Body>
+     <nav2> 
+     <ul>Interfaces</ul>
+        <select> 
+            <options>  </Select>
+        <select>
+     <ul> 
+     <form> name = "Credentials"
+            <button> 
+               text = "
+  </Body>
+
+
+
+</html> 
