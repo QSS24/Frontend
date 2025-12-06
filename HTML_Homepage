@@ -4,11 +4,12 @@ Homepage.html
 <html> 
 <Head> 
      <Meta Name = "NeworkEngineering" Lang = "English" Content = "Wide-Device-width Initial-Scale">
-     <Meta Description = "...."  >
+     <Meta Description = "Configuration of Network Devices & OSI layers"  >
      <Meta Content = "..."     
      <link rel = "Stylesheet" hef = "Homepage_Style.css" >
 
      <title> 
+          
      </title> 
 </Head>
   <Section> 
@@ -18,15 +19,27 @@ Homepage.html
   <Body>
      <nav2> 
      <ul>Interfaces</ul>
-        <select> 
+
+        <li> 
+          <a  href= " ... " </a> 
+          <a  href= " ... " </a>
+          <a  href= " ... " </a>
+        </li> 
+        <select>
             <options>  </Select>
         <select>
      <ul> 
-     <form> name = "Credentials"
-            <button> 
-               text = "
+     <form id=" form_1 " required> " Credentials" </form>
+            <button id = "button_1" > Enter Credentials </button> 
+               
   </Body>
-
+     <Section> 
+        <form id ="form_2" text= "Email:" authentication = "required" > 
+        <script>  
+              let Btn1 = (on_click) => { Document.Get_element_by_id('a')
+              if Q.
+              
+        </script>
 
 
 </html> 
