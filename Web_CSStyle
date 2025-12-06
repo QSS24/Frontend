@@ -1,0 +1,20 @@
+Homepage_style.css
+*{ 
+}
+
+.Head {
+     Font: 
+     size:
+     color:
+     
+}
+
+
+.nav::before { 
+  .animation(
+  
+  }
+
+.nav2::after  { 
+  .animation() 
+}
