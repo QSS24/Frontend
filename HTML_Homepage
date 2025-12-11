@@ -9,48 +9,58 @@ Homepage.html
      <link rel = "Stylesheet" hef = "Homepage_Style.css" >
 
      <title> 
-          COULD YOU SUPPL LEMENT 
+          COULD YOU SUPPLEMENT....
      </title> 
 </Head>
   <Section> 
-      <nav>
+      <Header class= >
         
   </Section> 
   <Body>
-     <nav2> 
      <ul>Interfaces</ul>
 
-        <li> <a  href= " ... " </a></li>
-        <li> <a  href= " ... " </a></li>
-        <li> <a  href= " ... " </a></li>
-        <li> <a  href= " ... " </a></li>
+        <li> <a  href= "HomePage" </a></li>
+        <li> <a  href= "Objectives" </a></li>
+        <li> <a  href= "Repertoire" </a></li>
+        <li> <a  href= "What's in it for you" </a></li>
 
      <div class= "Search">
         <input class="Sinners" type= "Search" name= "" Placeholder= "Type to Text" >
         <a href= "#" <button class= "btn"> Search </button> </a> 
      </div> 
      
+     <div class= "Card"> 
+        <a href= "..." <button id= "Card"> LAN Scanners</button></a>
+        <a href= "Tshark" <button id= "Card"> Where is your Packets </button></a>
+        <a href= "Zenmap" <button id= "Card"> Networks mapping </button></a>
+     </div> 
         <select> 
             <options>  </Select>
         <select>
+
+
      <ul> 
-     <form id=" form_1 " required> " Credentials" </form>
+     <form id= "form_1" required> Credentials </form>
             <button id = "button_1" > Enter Credentials </button> 
-     
-     <div class= "Designs>
+            
+     <div class= "Designs">
         <h2> Gui Designs...<h2>
            <p class= "Descriptions"> ... </p>
            <button id= "button_1"> <a href= " .... " </a> 
-           </button> 
-  
+           </button>
+     </div>
+     </ul>
   <Body>
      <Section> 
-        <form id ="form_2" text= "Email:" authentication = "required" > 
+        <form id ="form_2" text= "Email:" required Placeholder= "" > 
+        <input type= "Username" placeholder= "Text"> Username </input> 
+        
         <script>  
               let Btn1 = (on_click) => { Document.Get_element_by_id('a')
               if Q.
               Const SearchButton = (On_click => New SearchButton { Document.GetElementByElement('Class/../Sinners')
-                    
+                    While Bool: 
+                    Return NewPage.html 
         </script>
 
 
