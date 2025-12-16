@@ -13,8 +13,13 @@ Homepage.html
      </title> 
 </Head>
   <Section> 
-      <Header class= >
-        
+      <Header class= Tabs>
+         <ul>
+               <li> <a href= "Services" </a></li>
+               <li> <a href= "Amenities" </a> </li>
+               <li>
+               <li> 
+           
   </Section> 
   <Body>
      <ul>Interfaces</ul>
@@ -52,16 +57,35 @@ Homepage.html
      </ul>
   <Body>
      <Section> 
-        <form id ="form_2" text= "Email:" required Placeholder= "" > 
+        <form id ="Login" text= "Email:" required Placeholder= "" > 
         <input type= "Username" placeholder= "Text"> Username </input> 
-        
+        <input type= "Password" Placeholder= "Text"> Password </input>
+     </Section> 
+
         <script>  
               let Btn1 = (on_click) => { Document.Get_element_by_id('a')
               if Q.
               Const SearchButton = (On_click => New SearchButton { Document.GetElementByElement('Class/../Sinners')
                     While Bool: 
                     Return NewPage.html 
+              Const Button_on = (On_click => (a) { Document.QuerySelector('/../*Button')
+                    a.isVisible(Button_on) 
+              
+              Const Button_off = (On_click => (b) { Document.QuerySelector('/../*Button')
+                    a.isNotVisible(Button_Off) 
+                    
         </script>
 
+   <footer class= Tabs>
+       <ul> 
+          <li><a href= "About" </a> </li>
+          <li><a href= "Where to go" </a> </li>
+          <li><a href= "Maps"  </a> </li>
+          <li><a href= "QAs"   </a> </li>
+      </ul>
 
+      <Section id= "Register">
+         <form id = "Register" text= "Username:" <required> Placeholder = "Type To text"> 
+         <input type = "New User" Placeholder = "Text"> Registered User </input>
+         
 </html> 
