@@ -1,21 +1,40 @@
 Homepage_style.css
 *{ 
-}
-
-.Head {
-     Font: Monotype-Corsiva
-     size: 20px
-     color: navy
-     embossed: 
-     padding: 5px
+     Source:
+     Font: 
+     Color:
+     Size:
+     Background-color: 
      
 }
 
+.Head {
+     Font: Monotype-Corsiva;
+     background-color: navy;
+     color: while;
+     size: 20px;
+     embossed: 
+     padding: 10px 5px;
+     border: none;
+     border-radius: 5px; 
+}
+
 *.form { 
-    
+    Padding: 10px 5px;
+    Spacing: 5px;
+    Font: Modern; 
+    Size: 20px
+    Color: Gray;
+} 
+
+*.form hover { 
+    Padding: 0px
+    Spacing: 0px;
     Font:
     Size:
     Color: 
+
+
 }
 
 .nav::before { 
@@ -24,5 +43,12 @@ Homepage_style.css
   }
 
 .nav2::after  { 
-  .animation() 
+  .animation(
+   Source: 
+   background-color: Gray;
+   color: navy;
+   Position: Relative;
+   Appearance: none;
+   display: in-line grid; 
+   )
 }
