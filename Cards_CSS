@@ -1,7 +1,58 @@
 *.Card{ 
-   padding:
-   Spacing: 
-   background-color:
-   source: 
+   padding: 10px;
+   Spacing: 5px;
+   outline: 5px; 
+   resizable: true; 
+   background-color: gradient(--var());
+   color: charcoal; 
+   source: "i background pictures" 
+   position: absolute sticky; 
+   Flex: 
    
+   
+*.card group{ 
+       Animation( 
+         Transition: 3s infinite;
+         Rotation:   90degrees;
+         resize: 
+         color:
+         background:
+         
+       
+
+}   
+   
+
+
+#.card .hover::1stchild { 
+       
+       Transition: 3s ease-in-out; 
+       Rotation: 180degree;
+       Background: 
+       Color: 
+
+
 }
+
+*.Footer { 
+    Position: sticky;
+    Flex: bottom;
+    Source:
+    Color:
+    Background-color: gradient(
+
+}
+
+*.Footer Bottom-bar {
+   padding: 10px;
+   Spacing: 5px;
+   outline: 5px; 
+   resizable: true; 
+   background-color: gradient(--var());
+   color: charcoal; 
+   source: "i background pictures" 
+   position: absolute sticky; 
+   Flex: 
+
+
+} 
