@@ -1,10 +1,9 @@
 Homepage_style.css
 *{ 
      Source:
-     Font: 
      Color:
      Size:
-     Background-color: 
+     Background-color: Gradient(--var());
      
 }
 
@@ -52,3 +51,72 @@ Homepage_style.css
    display: in-line grid; 
    )
 }
+
+*.Container {
+     Source: 
+     background-color: navy;
+     color: while;
+     size: 20px;
+     embossed: 
+     padding: 10px 5px;
+     border: none;
+     border-radius: 5px; 
+}
+
+
+*.Sidebar { 
+      Position: Sticky;
+         Flex: Absolute;
+         size:
+         color:
+         background-color:
+
+}
+
+*.Sidebar Toggle { 
+     Position: Sticky;
+         Flex: Absolute;
+         size:
+         color:
+         background-color:
+
+}
+
+*.Sidebar Toggle-Right { 
+     Position: Sticky;
+         Flex: Absolute;
+         size:
+         color:
+         background-color:
+}
+
+*.Sidebar Toggle-Left{ 
+       Position: Sticky;
+         Flex: Absolute;
+         size:
+         color:
+         background-color:
+
+}
+
+*.Menubar {
+      Position: Sticky;
+         Flex: Absolute;
+         size:
+         color:
+         background-color:
+         
+
+}
+
+*.Menubar Dropdown .Amenities { 
+         Position: Sticky;
+         Flex: Absolute;
+         size:
+         color:
+         background-color:
+         
+
+}
+
+
