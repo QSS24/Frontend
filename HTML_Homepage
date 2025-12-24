@@ -13,12 +13,15 @@ Homepage.html
      </title> 
 </Head>
   <Section> 
-      <Header class= Tabs>
+      <Header class= "Sidebar">
          <ul>
-               <li> <a href= "Services" </a></li>
-               <li> <a href= "Amenities" </a> </li>
-               <li>
-               <li> 
+               <li> <a href= "Services" > Services </a></li>
+                    <Select class="Serices-Dropdown">
+                         <option type= "text" > Feel Good </option>
+                         <option type= "text" >
+               <li> <a href= "Amenities"> Amenities </a></li>
+               <li> <a href= "Clean up"> Clean Up </a></li> 
+               <li> <a href= "Architecture"> Architecture </a></li>
            
   </Section> 
   <Body>
@@ -33,21 +36,32 @@ Homepage.html
         <input class="Sinners" type= "Search" name= "" Placeholder= "Type to Text" >
         <a href= "#" <button class= "btn"> Search </button> </a> 
      </div> 
-     
-     <div class= "Card"> 
-        <a href= "..." <button id= "Card"> LAN Scanners</button></a>
-        <a href= "Tshark" <button id= "Card"> Where is your Packets </button></a>
-        <a href= "Zenmap" <button id= "Card"> Networks mapping </button></a>
-     </div> 
+
+     <section class= "Container">
+           <div class= "Card"> 
+             <a href= "..." <button id= "Card" type= "Submit"> LAN Scanners</button></a>
+          <div class= "Card2">
+             <a href= "Tshark" <button id= "Card2" type= "Submit"> Where is your Packets </button></a>
+          <div class= "Card3"> 
+             <a href= "Zenmap" <button id= "Card3"> Networks mapping </button></a>
+          <div class= "Card3"> 
+             <a href= "Zenmap" <button id= "Card3"> Networks mapping </button></a>
+          </div>
+
+    </section> 
+
         <select> 
             <options>  </Select>
         <select>
 
 
      <ul> 
-     <form id= "form_1" required> Credentials </form>
-            <button id = "button_1" > Enter Credentials </button> 
-            
+     <form id= "form_1"> Credentials </form>
+          <label type = "Text" name "Credentials"> 
+            <input = "text" name="Credentials" required>
+            <button id = "button_1" type= "Submit" > Enter Credentials </button> 
+          </label> 
+
      <div class= "Designs">
         <h2> Gui Designs...<h2>
            <p class= "Descriptions"> ... </p>
@@ -62,27 +76,19 @@ Homepage.html
         <input type= "Password" Placeholder= "Text"> Password </input>
      </Section> 
 
-        <script>  
-              let Btn1 = (on_click) => { Document.Get_element_by_id('a')
-              if Q.
-              Const SearchButton = (On_click => New SearchButton { Document.GetElementByElement('Class/../Sinners')
-                    While Bool: 
-                    Return NewPage.html 
-              Const Button_on = (On_click => (a) { Document.QuerySelector('/../*Button')
-                    a.isVisible(Button_on) 
-              
-              Const Button_off = (On_click => (b) { Document.QuerySelector('/../*Button')
-                    a.isNotVisible(Button_Off) 
-                    
+        <script src= '/../HomePage.js'>  
+             
         </script>
 
-   <footer class= Tabs>
-       <ul> 
-          <li><a href= "About" </a> </li>
-          <li><a href= "Where to go" </a> </li>
-          <li><a href= "Maps"  </a> </li>
-          <li><a href= "QAs"   </a> </li>
-      </ul>
+   <footer class= "Container">
+            <ul> 
+               <li><a href= "" name= " About "  </a> About </li>
+               <li><a href= "" name= " Where to go " </a> Where to go </li>
+               <li><a href= ""  name= " Maps "  </a> Maps </li>
+               <li><a href= "" name= " QAs"   </a> QAs </li>
+           </ul>
+      </div> 
+   </footer> 
 
       <Section id= "Register">
          <form id = "Register" text= "Username:" <required> Placeholder = "Type To text"> 
