@@ -1,0 +1,18 @@
+Amenities_newpage.html
+
+
+<<! Doctype Html>
+<html lang= "en"> 
+<Head> 
+     <Meta Name = "NeworkEngineering" Lang = "English" Content = "Wide-Device-width Initial-Scale">
+     <Meta Description = "Configuration of Network Devices & OSI layers"  >
+     <Meta Content = "..."     
+     <link rel = "Stylesheet" hef = "Homepage_Style.css" >
+</Head>
+   <Header> 
+        <Article class="Amenities">
+             <p> Brief descriptions of the encompassing Amenities 
+
+             </p> 
+        </Article>
+   </Header>
