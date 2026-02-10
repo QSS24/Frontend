@@ -3,6 +3,9 @@ Homepage_style.css
      Source:
      Color:
      Size:
+     text-decoration: [none, embossed, etc];
+     text-color: linear-gradient().url(style); 
+     text-transform: upper.url(style-font websites);  
      Background-color: Gradient(--var());
      
 }
@@ -65,16 +68,19 @@ Homepage_style.css
 
 
 *.Sidebar { 
-      Position: Sticky;
+      Position: left Sticky;
          Flex: Absolute;
-         size:
+         size: resizable; 
          color:
          background-color:
-
+         
 }
 
 *.Sidebar Toggle { 
      Position: Sticky;
+         .Animation(
+       
+         )
          Flex: Absolute;
          size:
          color:
@@ -115,6 +121,7 @@ Homepage_style.css
          size:
          color:
          background-color:
+         Source: {'/QSS24/CSStyle/Amenities/*background.jpg'}
          
 
 }
