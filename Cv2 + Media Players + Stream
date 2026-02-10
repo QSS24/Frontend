@@ -1,1 +1,25 @@
+<video div= 'Stream_video' >
+    <iframe width = '...' height = '...'  src= "..."
+      title = '    ' 
+    >       
+    </iframe>
+</video> 
+
+<script lan= 'python'>
+
+    global: tuples(
+       Data:= Source('ips'): 
+       import [ opencv2, os, socket] && from netmiko import ConnectionHandler as Handles:
+       Import PoolThreadExecutor as Threads: 
+       Source: tuples(bytes**, str(), int[]) = Handles.opencv2():
+       );
+       Try: 
+          if open(Source**) is not none:
+          LiveStream = source(bytes**) 
+       While:
+       Class Streaming() --> str(tuples[], int[], vector()):
+             LiveStream.connect(bytes**) if cam is not (none, bool):
+                
+             
+</script>
 
