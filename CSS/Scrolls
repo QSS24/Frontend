@@ -1,0 +1,45 @@
+Html {
+  Scroll-behavior: smooth;
+  overflow-y: flow;
+  scroll-snap-type: y | height mandatory; 
+}
+
+#.Cards {
+
+}
+
+#.Buttons { 
+
+}
+
+#.Forms { 
+
+}
+
+#.Div { 
+
+}
+
+#.Nav { 
+
+}
+
+#.Video { 
+
+}
+
+#.Container { 
+
+}
+
+#.Menubar { 
+
+}
+
+#.Sizebar { 
+
+}
+
+ Head { 
+
+}
