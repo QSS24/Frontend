@@ -1,4 +1,6 @@
 Homepage.html
+{% extends 'Amenities.html' %}
+{% extends 'Cv2_Stream.html' %}
 
 <! Doctype Html>
 <html lang= "en"> 
@@ -12,6 +14,9 @@ Homepage.html
           COULD YOU SUPPLEMENT....
      </title> 
 </Head>
+
+###{% Block Section_Form } 
+
   <Section> 
       <Header class= "Sidebar">
          <ul>
@@ -55,12 +60,26 @@ Homepage.html
         <select>
 
 
-     <ul> 
-     <form id= "form_1"> Credentials </form>
-          <label type = "Text" name "Credentials"> 
-            <input = "text" name="Credentials" required>
-            <button id = "button_1" type= "Submit" > Enter Credentials </button> 
-          </label> 
+     <Section> 
+          
+          <form id= "form_1" placeholder = "title" required characters = > 
+               <method = "post"> 
+               {% csrf_token %}
+
+               <input type = "email" placeholder = "email or username" requied> Email </input>
+               <input type = "username" placeholder = "username" required> Username </input>
+               <input type = "username" placeholder = "password" required> Password </input>
+
+               <label type = "Text" name "Credentials"> 
+
+                    <input = "text" name="Credentials" required>
+                    <button id = "button_1" type= "Submit" > Enter Credentials </button> 
+                    <button id = "button_2" type= "Submit" >                   </button> 
+
+               </label> 
+          
+          </form>
+     </Section> 
 
      <div class= "Designs">
         <h2> Gui Designs...<h2>
@@ -71,7 +90,6 @@ Homepage.html
      </ul>
   <Body>
      <Section> 
-        <form id ="Login" text= "Email:" required Placeholder= "" > 
         <input type= "Username" placeholder= "Text"> Username </input> 
         <input type= "Password" Placeholder= "Text"> Password </input>
      </Section> 
@@ -79,6 +97,8 @@ Homepage.html
         <script src= '/../HomePage.js'>  
              
         </script>
+
+###{% EndBlock Section_form%} 
 
    <footer class= "Container">
             <ul> 
