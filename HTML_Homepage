@@ -29,6 +29,13 @@ Homepage.html
                <li> <a href= "Architecture"> Architecture </a></li>
            
   </Section> 
+
+##php
+{% if Request.credentials[ ] %} && {% if Request.Users[ Current.Users ].is_authenthicated %} 
+   {% Block %}
+
+
+
   <Body>
      <ul>Interfaces</ul>
 
