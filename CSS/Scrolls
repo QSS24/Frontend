@@ -9,11 +9,37 @@ Html {
 }
 
 #.Buttons { 
-
+   Margins: 10px,
+   width: 
+   Height: 
+   source: {'/QSS24/Cards_CSS/*Cards.jpg'}
+   padding: 10px;
+   Spacing: 5px;
+   outline: 5px; //or embossed  
+   resizable: true;
+   align-items: relative; 
+   background-color: linear-gradient(--var());
+   background-size:
+   background-position: device screen; 
+   color: charcoal; 
+   position: absolute sticky; 
+   Flex: relative; 
+   border-radius: 30px; //make rounded cards
+   Align-items: center;
+   Justify-content: center;
 }
 
 #.Forms { 
-
+    Margin: ;
+    Padding: ; 
+    Height: ;
+    Width: ;
+    Padding: ; 
+    Outline: 5px; // or embossed 
+    bacground-color: linear-gradient();
+    background-position: device screen; 
+    color: ;
+    
 }
 
 #.Div { 
@@ -29,15 +55,66 @@ Html {
 }
 
 #.Container { 
-
+     Margins: 10px,
+     width: 
+     Height: 
+     source: {'/QSS24/Cards_CSS/*Cards.jpg'}
+     padding: 10px;
+     Spacing: 5px;
+     outline: 5px; //or embossed  
+     resizable: true;
+     align-items: relative; 
+     background-color: linear-gradient(--var());
+     background-size:
+     background-position: device screen; 
+     color: charcoal; 
+     position: absolute sticky; 
+     Flex: relative; 
+     border-radius: 30px; //make rounded cards
+     Align-items: center;
+     Justify-content: center;
 }
 
 #.Menubar { 
-
+     Margins: 10px,
+     width: 
+     Height: 
+     source: {'/QSS24/Cards_CSS/*Cards.jpg'}
+     padding: 10px;
+     Spacing: 5px;
+     outline: 5px; //or embossed  
+     resizable: true;
+     align-items: relative; 
+     background-color: linear-gradient(--var());
+     background-size:
+     background-position: device screen; 
+     color: charcoal; 
+     position: absolute sticky; 
+     Flex: relative; 
+     border-radius: 30px; //make rounded cards
+     Align-items: center;
+     Justify-content: center;
 }
 
 #.Sizebar { 
-
+     Margins: 10px,
+     width: 
+     Height: 
+     source: {'/QSS24/Cards_CSS/*Cards.jpg'}
+     padding: 10px;
+     Spacing: 5px;
+     outline: 5px; //or embossed  
+     resizable: true;
+     align-items: relative; 
+     background-color: linear-gradient(--var());
+     background-size:
+     background-position: device screen; 
+     color: charcoal; 
+     position: absolute sticky; 
+     Flex: relative; 
+     border-radius: 30px; //make rounded cards
+     Align-items: center;
+     Justify-content: center;
 }
 
  Head { 
