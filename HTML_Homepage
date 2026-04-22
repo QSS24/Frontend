@@ -69,7 +69,7 @@ Homepage.html
 
      <Section> 
           
-          <form id= "form_1" placeholder = "title" required characters = > 
+          <form  action = '/credentials/' required > 
                <method = "post"> 
                {% csrf_token %}
 
@@ -86,6 +86,7 @@ Homepage.html
                </label> 
           
           </form>
+
      </Section> 
 
      <div class= "Designs">
