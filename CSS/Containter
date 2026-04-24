@@ -1,0 +1,23 @@
+*.Container { 
+   width: 
+   height: 
+   source: {'/QSS24/Cards_CSS/*Cards.jpg'}
+   overflow : HIDDEN!; 
+   padding: 10px;
+   Spacing: 5px;
+   outline: 5px; 
+   resizable: true;
+   align-items: relative; 
+   background-color: linear-gradient(--var());
+   background-size:
+   background-position: device screen; 
+   color: charcoal; 
+   position: absolute sticky; 
+   Flex: relative; 
+   border-radius: 30px; //make rounded cards
+   Align-items: center;
+   Justify-content: center;
+}
+
+
+
