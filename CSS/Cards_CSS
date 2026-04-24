@@ -2,6 +2,7 @@
    width: 
    height: 
    source: {'/QSS24/Cards_CSS/*Cards.jpg'}
+   overflow : HIDDEN!; 
    padding: 10px;
    Spacing: 5px;
    outline: 5px; 
@@ -28,11 +29,24 @@
          margin: 5x;
          outline: embossed;
          )
-         
-       
-
 }   
-   
+
+*.card .group .Element {
+      Animation(
+         Transition: 3s infinite;
+         Transform: perspective(270);
+         Transform-style: preserver-3d;
+            RotateY|X(calc(var(--position) -1) * (180 / var(--quantity)) * 1deg))
+            TranslateZ(10px);
+         Rotation: 180degrees;
+         Resize: 2 * (*#.card);
+         Color: Linear-gradient(--var());
+         Padding: 10x;
+         Margin: 10x;
+         Outline: embossed;
+         overflow: 
+      )
+}
 
 
 #.card .hover::1stchild { 
@@ -54,7 +68,7 @@
 
 }
 
-*.Footer Bottom-bar {
+*.Footer .Bottom-bar {
    source: {'/Qss24/Cards_CSS/*Footer.jpgs'}
    padding: 10px;
    Spacing: 5px;
@@ -63,8 +77,5 @@
    background-color: gradient(--var());
    color: charcoal;  
    position: absolute sticky; 
-   Flex: Centered-bottom; 
-   
-
-
+   Flex: Centered-bottom;    
 } 
