@@ -1,3 +1,6 @@
+Import 'react' from 'React'
+Import { useState } from 'React'
+
 Public Dynamic Main Class AmenitiesPage()=> Tuple([str, int,maps]): 
     
     Const All_vars = Queue(tuples(enumerate([Div-Toggle, Div-Menubar, Div-Scrollbar, Div-Container, Div-Cards,
@@ -29,4 +32,47 @@ Public Dynamic Main Class AmenitiesPage()=> Tuple([str, int,maps]):
       
     
     });
+
+
+Private Dynamic Main Class Credentials(str,int[]:Cred):
+    Const Cred = (  ) => {
+        return (
+            < 
+            {Cred.map(Cred) => (
+                <div Key= {Cred.id}> {Cred.Phrasal_Elements} </div>
+                )
+                
+            >
+        )
+
+    Const DivScroll = ( [ Scrollers ]) => {
+        const [ hasScrollered, setHasScrolled] =  useState(initialstate:bool);
+        const [ isOpen, isSetOpen ] = useState(initialState:bool);
+        <Srolls> 
+        </Scrolls>
+
+        UseEffect( effect(): => {
+            const handleScrollers = () => {
+                sethasCrolled( value: Window.ScrollY|X = #)
+            }
+        };                    
+}
+
+    Cons Siders = ([ Slide, Value ]) => {
+        Const [ hasSlid, setHasSlid ] = useState(initialState: bool);
+        Const [ isOpen, isSetOpen ] = useState(initialState: bool);
+        <Sliders> </Sliders>
+
+        UseEffecdt( Effect(): => {
+            const HandleSliders = () => {
+                setHasSliders( value: Window.SlidesX = # );
+            };
+            window.AddEventListern (type: scrolls, HandleScrolls);    
+            return () => {
+                window.RemoveEventListener( type: Scrolls, HandleScrolls);
+            };
+        };    
+}
+    
+
 
