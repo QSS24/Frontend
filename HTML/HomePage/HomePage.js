@@ -27,4 +27,8 @@ Public Dynamic Class Homepage()=> Tuple([str, int,maps]):
     
     }
 
+
+
+        
+
             
