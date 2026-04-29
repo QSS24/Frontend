@@ -8,15 +8,22 @@ Homepage.html
      <Meta Name = "NeworkEngineering" Lang = "English" Content = "Wide-Device-width Initial-Scale">
      <Meta Description = "Configuration of Network Devices & OSI layers"  >
      <Meta Content = "..."     
-     <link rel = "Stylesheet" hef = "Homepage_Style.css" >
+     <link rel = "Stylesheet" hef = "<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />" >
 
      <title> 
           COULD YOU SUPPLEMENT....
      </title> 
 </Head>
+    <section> 
 
+        <div class =  "Search Bar"> 
+            < div input = "Text" class = "Search Bar" Placeholder = "Search Querries" > </div>
+            < button class = "Search bar" type = "Search-button"><img src= "pictures" alt ="Search Querry"> Search </button> 
+        </div> 
+
+    </section> 
 ###{% Block Section_Form } 
-
+   
   <Section> 
       <Header class= "Sidebar">
          <ul>
