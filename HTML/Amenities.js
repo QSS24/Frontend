@@ -21,7 +21,7 @@ Public Dynamic Main Class AmenitiesPage()=> Tuple([str, int,maps]):
                    })
     For each _, j ,i   in Dynamic_Elements if not [none, bool] :
         While: 
-            Const _, j , i(re.compile('^\b*{3}\'g) = Document.QuerySelectorAll('Elements')
+            Const _, j , i(re.compile('\b^*{3}$\'g) = Document.QuerySelectorAll('Elements')
 
             Try Function Main Dynamic ObtainElements (int, str []: Elements, ):  
                 Const Header = _.['Header'];
@@ -49,6 +49,7 @@ Private Dynamic Main Class Credentials(str,int[]:Cred):
         const [ hasScrollered, setHasScrolled] =  useState(initialstate:bool);
         const [ isOpen, isSetOpen ] = useState(initialState:bool);
         <Srolls> 
+            
         </Scrolls>
 
         UseEffect( effect(): => {
