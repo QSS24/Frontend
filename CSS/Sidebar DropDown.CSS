@@ -1,0 +1,37 @@
+/* import font from sites */
+/* cursive font */ 
+@import url(<link href="https://fonts.googleapis.com/css2?family=Playwrite+NO:wght@100..400&display=swap" rel="stylesheet">);
+
+* { 
+  margins: 
+  color: (--var(background));
+  font-family: "Playwrite NO"; cursive;
+  font-optical-sizing: auto; 
+  }
+
+#.Sidebar-DropDown { 
+      background: (var(--font color))
+  }
+
+#.Sidebar-DropDown .Vertical-Sidebar { 
+
+  }
+
+#.Sidebar-DropDown .Horizontal-Sidebar { 
+
+  }
+
+/* Dropdown Menu-Items Decorations */
+  ======== /* cascading */ ============
+  
+#.Ordered-Items { 
+
+  } 
+
+#.Returned-Items { 
+
+  }
+
+#.Menu-Items { 
+  
+  }
