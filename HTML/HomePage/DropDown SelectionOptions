@@ -1,0 +1,113 @@
+<! Doctype Html>
+<html lang= "en"> 
+<Head> 
+     <Meta Name = "NeworkEngineering" Lang = "English" Content = "Wide-Device-width Initial-Scale">
+     <Meta Description = "Configuration of Network Devices & OSI layers"  >
+     <Meta Content = "..."     
+     <link rel = "Stylesheet" hef = "<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />" >
+
+     <title> 
+          Drop Down of Facility's Selection
+     </title> 
+</Head>
+##font.google.com for button designs> 
+##sliding side bar & w/toggle of colors. 
+
+<body>
+    <Section class = "Sidebar-Dropdown">
+        <div class = "Sidebar-Dropdown" style = " ">
+            <ul class = "Verticle Sidebar> 
+                <li class = "Ordered Items> 
+                    <a href = " " style= "Count: Position 1" alt = "About" > </a>
+                        <i class = "Materials-Items Arrows> </i> 
+                    <img src = "logo or icons" > 
+                    <span class = " Materials period">  
+                    <span class = " 
+                </li> 
+                    <a href = " " style= "Count: Position 2" alt = "Ameritus" > </a>
+                        <i class = "Materials-Items Arrows> </i>  
+                    <span class = " Materials period">  
+                    <span class = "  
+            
+                <li class = "Ordered Items"> 
+                    <a href = " " style= "Count: Position 3" alt = "Hydration" > </a>
+                        <i class = "Materials-Items Arrows> </i> 
+                    <span class = " Materials period">  
+                    <span class = "  
+                </li> 
+             
+                <li class = "Ordered Items"> 
+                    <a href = " " style= "Count: Position 4" alt = "Nutritions" > 
+                        <i class = "Materials-Items Arrows> </i> 
+                    <span class = " Materials: Period">  
+                    <span class = " Materials: Stolen-tag> 
+                </li> 
+
+            <ul class = " Horizontal Sidebar"> 
+                <li class = "Returned Items"> 
+                    <a href = " " style= "Count: Position 4" alt = "Recovery" > </a>
+                        <i class = "Materials-Items Arrows> </i>    
+                    <span class = "Materials Period"> // </span>
+                    <span class = "Materials: Stolen-tag"> ... </span> 
+                </li> 
+
+                <li class = "Returned Items"> 
+                    <a href = " " style= "Count: Position 4" alt = "Recovery" > </a>
+                        <i class = "Materials-Items Arrows> </i> 
+                    <span class = "Materials Period"> // </span>
+                    <span class = "Materials: Stolen-tag"> ... </span> 
+                </li>
+
+                <li class = "Returned Items"> 
+                    <a href = " " style= "Count: Position 4" alt = "Recovery" > </a>
+                        <i class = "Materials-Items Arrows> </i> 
+                    <span class = "Materials Period"> // </span>
+                    <span class = "Materials: Stolen-tag"> ... </span> 
+                </li>
+
+                <li class = "Returned Items"> 
+                    <a href = " " style= "Count: Position 4" alt = "Recovery" > </a>
+                        <i class = "Materials-Items Arrows> </i> 
+                    <span class = "Materials Period"> // </span>
+                    <span class = "Materials: Stolen-tag"> ... </span> 
+                </li> 
+                <li class = "list-items Downdown-Menu"> 
+                    <a href = " " style = "Count: " Alt =" Always Stealing">  </a>
+                        <i class = "Materials-Items Arrows> </i> 
+                    <span class = 
+                    <Span class =
+                    <Span class = 
+                </li> 
+                    <ul class = "DropDown Menu-Items"> 
+                        <li class = "Menu-Items"> 
+                            < a href= " " Title = " "> Food Consumed </a> 
+                                <i class = "Materials-Items Arrows> </i> 
+                            <span> 
+                            <span> 
+                        </li>
+
+                        <li class = "Menu-Items"> 
+                            < a href> Breakfast </a> 
+                                <i class = "Materials-Items Arrows> </i> 
+                            <span> 
+                            <span> 
+                        </li>
+
+                        <li class = "Menu-Items"> 
+                            < a href> Lunch </a>
+                                <i class = "Materials-Items Arrows> </i> 
+                            <span> 
+                            <span> 
+                        </li>
+
+                        <li class = "Menu-Items"> 
+                            < a href> Dinner </a>
+                                <i class = "Materials-Items Arrows> </i> 
+                            <span> 
+                            <span> 
+                        </li>
+                    </ul>
+    
+        </div> 
+    </section
+</body> 
