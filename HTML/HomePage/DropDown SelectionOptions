@@ -13,6 +13,25 @@
 ##font.google.com for button designs> 
 ##sliding side bar & w/toggle of colors. 
 
+/*Button pop out 
+     <button class = " " popovertarget=" packet-thiefs" type = "text"> Packet-Thiefs 
+         <div id = "packet-thiefs" popover style= "Abetting-Thiefs:"> Abetting Thiefs </div>
+          
+     </button>
+<datalist = id ="Certification & Assessment Thiefs"
+     <option value= "Certificates"></option>
+     <option value = "Greed --> packet thiefs "></option>
+</datalist> 
+
+to add information text above paragraph text:
+     /* <ruby> By the time i'm done there will be attritions 
+          <rt or rp tags>
+          <rt> Progress is a... </rt>
+          <rp> Gotta make sure it's ...</rp> 
+        </ruby> 
+*/
+     
+
 <body>
     <Section class = "Sidebar-Dropdown">
         <div class = "Sidebar-Dropdown" style = " ">
