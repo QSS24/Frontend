@@ -1,0 +1,73 @@
+cssnipset
+/*pseudo-classes: 
+    :hover :active :link :visited :focus :nth-child() :invalid
+            :checked : required
+//font size rem = root element's font-size
+.box {
+    height: ;
+    width:    ;
+    background: var(--bg-color);
+
+    Transition-property: transform;
+    background-color, scale;
+    transition-duration:
+    Transition-timing-function: ease;
+    transition-delay: #seconds;
+    
+}
+
+.*box:hover {
+    transform: rotate(135deg);
+    background-color: #color;
+    scale: #;
+}
+
+
+.Forms {
+    //font-size: clamp(#rem, #vw //view-width, #rem);
+                  //  min, view-with, max, 
+    --font-size: clamp(2rem, calc(10vw +2rem), 10rem);
+    --font-color:linear-gradient(var());
+    --background:linear-gradient(--var());
+    --position: Absolute sticky;
+    --margin: 10px;
+    --padding: 5px;
+    --border-radius: 30px;
+    --corner-shape: scoop;
+        //border: 10px solid color; 
+    --height: 100dvh; //device view height
+    --img{
+        max-width: %;
+        height: auto;
+        aspect-ratio: #/#;
+        object-fit: contain; //covers 
+        }
+    --flex{
+        display: flex;
+        justify-content: right;
+        align-items: center; 
+    }
+}
+
+#.*Dropdown {
+    opacity: 0;
+    visibility: hidden;
+}
+
+#.*button:focus-within .Dropdown {
+    opacity: 1;
+    visibility: visible;
+}
+
+.Forms::hover {
+
+    --Resize:
+    --background: linear-gradient(--var());
+    //multi device padding
+    --padding: min(10em, 6%);
+    --Margin:  3px;
+    --color: ;
+    --box-sizing: ;
+    --
+        
+    {
