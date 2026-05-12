@@ -10,15 +10,19 @@ Homepage.html
      <Meta Content = "..."     
      <link rel = "Stylesheet" hef = "<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />" >
 
-     <title> 
+     <title style = " " font-family = "Monotype-Corsiva" Font-size = # ><b><i> 
           COULD YOU SUPPLEMENT....
      </title> 
 </Head>
     <section> 
 
-        <div class =  "Search Bar"> 
-            < div input = "Text" class = "Search Bar" Placeholder = "Search Querries" > </div>
-            < button class = "Search bar" type = "Search-button"><img src= "pictures" alt ="Search Querry"> Search </button> 
+        <div class =  "Search-Bar"> 
+            < div input = "Text" class = "Search-Bar" Placeholder = "Search Querries" > </div>
+               <img src = " " alt = "BEEN ABOUT $ BIA QUIT LYING!" > 
+               <ruby> 
+                 <rt> ... <rt>
+               </ruby> 
+            < button class = "Search-Bar" type = "Search-button"> <img src= "pictures" alt ="Search Querry"> Search </button> 
         </div> 
 
     </section> 
