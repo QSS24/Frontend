@@ -1,0 +1,78 @@
+@import url(<link href="https://fonts.googleapis.com/css2?family=Playwrite+NO:wght@100..400&display=swap" rel="stylesheet">);
+
+
+*.Footer { 
+    --Position: sticky;
+    --Flex: bottom;
+    --Align-items; relative sticky; 
+    --Source: {/QSS24/*Cards.jpg/};
+    --Color: (--var(background)); 
+
+}
+
+*.Footer .Bottom-bar {
+   --source: {'/Qss24/Cards_CSS/*Footer.jpgs'}
+   --padding: 10px;
+   --Spacing: 5px;
+   --outline: 5px; 
+   --resizable: true; 
+   --background-color: gradient(--var());
+   --color: charcoal;  
+   --position: absolute sticky; 
+   --Flex: Centered-bottom;    
+} 
+
+*.Card { 
+   --width: 
+   --height: 
+   --source: {'/QSS24/Cards_CSS/*Cards.jpg'}
+   --overflow : HIDDEN!; 
+   --padding: 10px;
+   --Spacing: 5px;
+   --outline: 5px; 
+   --resizable: true;
+   --align-items: relative; 
+   --background-color: linear-gradient(--var());
+   --background-position: device screen; 
+   --color: charcoal; 
+   --position: absolute sticky; 
+   --Flex: relative; 
+   --border-radius: 30px; //make rounded cards
+   --Align-items: center;
+   --Justify-content: center;
+}
+   
+*.card group{ 
+       Animation( 
+         --Transition: 3s infinite;
+         --Rotation:   90degrees;
+         --resize: 2 * (*#.card);
+         --color: linear-gradient ()
+         --padding: 5x;
+         --margin: 5x;
+         --outline: embossed;
+         )
+}   
+
+*.card .group .Element {
+      Animation(
+         --Transition: 3s infinite;
+         --Transform: perspective(270);
+         --Transform-style: preserver-3d;
+            --RotateY|X(calc(var(--position) -1) * (180 / var(--quantity)) * 1deg))
+            TranslateZ(10px);
+         --Rotation: 180degrees;
+         --Resize: 2 * (*#.card);
+         --Color: Linear-gradient(--var());
+         --Padding: 10x;
+         --Margin: 10x;
+         --Outline: embossed;
+         --overflow: 
+      )
+}
+
+
+
+   --position: absolute sticky; 
+   --Flex: Centered-bottom;    
+} 
